@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|c:\\users\\asus\\source\\repos\\routinginmvc\\routinginmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|solutionrelative:routinginmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|c:\\users\\asus\\source\\repos\\routinginmvc\\routinginmvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|solutionrelative:routinginmvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|c:\\users\\asus\\source\\repos\\routinginmvc\\routinginmvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|solutionrelative:routinginmvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|c:\\users\\asus\\source\\repos\\routinginmvc\\routinginmvc\\views\\about\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|solutionrelative:routinginmvc\\views\\about\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|c:\\users\\asus\\source\\repos\\routinginmvc\\routinginmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|solutionrelative:routinginmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|c:\\users\\asus\\source\\repos\\routinginmvc\\routinginmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|solutionrelative:routinginmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|c:\\users\\asus\\source\\repos\\routinginmvc\\routinginmvc\\views\\product\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB4470-B34E-49A8-A7A3-E42504BBA9F9}|RoutingInMvc\\RoutingInMvc.csproj|solutionrelative:routinginmvc\\views\\product\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\About\\Index1.cshtml",
+              "RelativeDocumentMoniker": "RoutingInMvc\\Views\\About\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\About\\Index1.cshtml",
+              "RelativeToolTip": "RoutingInMvc\\Views\\About\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T04:51:29.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoutingInMvc\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "RoutingInMvc\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T04:50:13.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "RoutingInMvc\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "RoutingInMvc\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T04:49:59.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\Product\\Index1.cshtml",
+              "RelativeDocumentMoniker": "RoutingInMvc\\Views\\Product\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\Product\\Index1.cshtml",
+              "RelativeToolTip": "RoutingInMvc\\Views\\Product\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T04:43:11.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RoutingInMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RoutingInMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T04:40:36.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoutingInMvc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "RoutingInMvc\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T04:40:02.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RoutingInMvc\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RoutingInMvc\\RoutingInMvc\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RoutingInMvc\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T04:39:04.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
